@@ -1,0 +1,13 @@
+{
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "debug.onTaskErrors": "showErrors",
+    "cmake.configureOnOpen": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "jdk.jdkhome": "c:\\Users\\bruhl\\OneDrive\\Pictures\\Oracle_JDK-22",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+    "java.configuration.runtimes": [],
+    "java.jdt.ls.java.home": "c:\\Users\\bruhl\\OneDrive\\Pictures\\Oracle_JDK-22"
+}
